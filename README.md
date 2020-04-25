@@ -1,4 +1,4 @@
-# vuex_todo_manager
+# Vuex Store - Todo Manager
 
 ## Project setup
 ```
@@ -19,6 +19,3 @@ yarn build
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
